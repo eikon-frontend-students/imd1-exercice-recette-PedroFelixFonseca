@@ -1,0 +1,60 @@
+* {
+  padding: 0px;
+}
+
+main {
+  padding: 40px;
+  width: 628px;
+  height: 860px;
+  border-radius: 40px;
+  border: 6px solid #000;
+  background: #7c90db;
+  box-shadow: 10px 20px 40px 40px #736b92;
+}
+img {
+  width: 371px;
+  height: 246px;
+  flex-shrink: 0;
+  border-radius: 20px;
+  margin: 0 120px;
+  align-self: center;
+}
+.trait {
+  border-bottom: 4px solid black;
+  padding: 0px 0px 20px 0px;
+  margin: 40px;
+}
+.Recette {
+  height: 407px;
+  width: 331px;
+  margin: auto;
+  padding: 10px 40px 10px 15px;
+  border-radius: 40px;
+  border: 6px solid #000;
+  background: #e5beed;
+  color: #000;
+
+  font-family: "Cabinet Grotesk";
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+}
+h1 {
+  margin: auto;
+  width: 557px;
+  height: 66px;
+  flex-shrink: 0;
+  color: #000;
+  text-align: center;
+  font-family: "Cabinet Grotesk";
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+.ingredients {
+  font-family: "Cabinet Grotesk";
+}
+a {
+  color: #000;
+}
