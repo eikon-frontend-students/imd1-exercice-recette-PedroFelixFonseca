@@ -52,3 +52,9 @@ h1 {
   font-weight: 500;
   line-height: normal;
 }
+.ingredients {
+  font-family: "Cabinet Grotesk";
+}
+a {
+  color: #000;
+}
